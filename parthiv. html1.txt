@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>ordered list</h2>
+<ol>
+<li>HTML</li>
+<li>CS</li>
+<li>java script</li>
+<ol>
+<h2>unordered list</h2>
+<ul>
+<li>apple</li>
+<li>mango</li>
+</ul>
+</body>
+</html>
